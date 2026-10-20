@@ -1,0 +1,11 @@
+# Python 3.10+ (developed on 3.12). All packages are MIT / BSD / Apache-2.0.
+numpy==2.4.4
+pandas==3.0.2
+scipy==1.17.1
+scikit-learn==1.8.0
+faiss-cpu==1.15.1
+indic_transliteration==2.3.82
+rapidfuzz==3.14.6
+pyarrow==25.0.1
+lightgbm==4.7.0
+sparse_dot_topn==1.2.0
